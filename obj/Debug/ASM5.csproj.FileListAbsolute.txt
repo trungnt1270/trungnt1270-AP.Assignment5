@@ -1,0 +1,7 @@
+F:\csSource\repos\ASM5\bin\Debug\ASM5.exe.config
+F:\csSource\repos\ASM5\bin\Debug\ASM5.exe
+F:\csSource\repos\ASM5\bin\Debug\ASM5.pdb
+F:\csSource\repos\ASM5\obj\Debug\ASM5.csprojAssemblyReference.cache
+F:\csSource\repos\ASM5\obj\Debug\ASM5.csproj.CoreCompileInputs.cache
+F:\csSource\repos\ASM5\obj\Debug\ASM5.exe
+F:\csSource\repos\ASM5\obj\Debug\ASM5.pdb
